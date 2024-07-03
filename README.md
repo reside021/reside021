@@ -15,7 +15,7 @@
 
 <div id="welcome" align="center">
   <h1>Hi, I'm Danil!</h1>
-  <h3>Junior Developer</h3>
+  <h3>C# Developer</h3>
 </div>
 
 ---
