@@ -26,7 +26,7 @@
 
 - :briefcase: I'm actively seeking work
   
-- :page_facing_up: Know about my experiences [CV](https://github.com/reside021)
+- :page_facing_up: Know about my experiences [CV](https://disk.yandex.ru/i/LD7k_O79m4fLaQ)
 
 - :mailbox:How to reach me: [Telegram](https://t.me/Reside021) [Email](mailto:reside021@yandex.ru)
 
@@ -59,7 +59,7 @@
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reside021&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reside021&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reside021&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reside021&theme=github_dark" alt=""/>
 </div>
 
 ---
