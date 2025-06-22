@@ -26,9 +26,9 @@
 
 - :briefcase: I'm actively seeking work
   
-- :page_facing_up: Know about my experiences [CV](https://disk.yandex.ru/i/LD7k_O79m4fLaQ)
+- :page_facing_up: Know about my experiences [CV]()
 
-- :mailbox:How to reach me: [Telegram](https://t.me/Reside021) [Email](mailto:reside021@yandex.ru)
+- :mailbox:How to reach me: [Telegram](https://t.me/Reside021) 
 
 ---
 
